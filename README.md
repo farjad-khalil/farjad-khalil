@@ -5,7 +5,7 @@
 ### 🔹 About Me
 I'm a passionate **Web Developer** currently pursuing a **Bachelor's in Computer Science** at **Air University, Islamabad**. I love building **interactive web applications** and exploring **AI technologies**.
 
-- 🌱 Currently learning **AI integration with web apps**
+- 🌱 Creating web apps Using **MERN**
 - ⚡ Passionate about **React.js, Node.js, and AI APIs**
 - 🔭 Working on **enhancing AI-driven user experiences**
 - 📫 Contact me at **farjadkhalil7@gmail.com**
@@ -68,8 +68,7 @@ I'm a passionate **Web Developer** currently pursuing a **Bachelor's in Computer
 
 ### 🌍 Connect with Me
 🔗 **GitHub:** [@farjad-khalil](https://github.com/farjad-khalil)  
-📧 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)  
-💼 **LinkedIn:** [Coming Soon...]  
+📧 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)   
 
 ---
 
