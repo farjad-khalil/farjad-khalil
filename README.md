@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Farjad Khalil!
 
-## 🚀 Web Developer | AI Enthusiast | MERN Stack | React & Tailwind Expert
+## 🚀 Web Developer | MERN Stack | React & Tailwind Expert | AI Enthusiast
 
 ### 🔹 About Me
 I'm a passionate **Web Developer** currently pursuing a **Bachelor's in Computer Science** at **Air University, Islamabad**. I love building **interactive web applications** and exploring **AI technologies**.
