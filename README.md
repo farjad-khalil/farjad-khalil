@@ -1,75 +1,100 @@
-# 👋 Hi, I'm Muhammad Farjad Khalil!
+# 👨‍💻 Muhammad Farjad Khalil
 
-## 🚀 Web Developer | MERN Stack | React & Tailwind Expert | AI Enthusiast
+## 💡 MERN Stack Dev | Next.js Enthusiast | UI/UX Lover | AI Curious
 
-### 🔹 About Me
-I'm a passionate **Web Developer** currently pursuing a **Bachelor's in Computer Science** at **Air University, Islamabad**. I love building **interactive web applications** and exploring **AI technologies**.
+Hey there! I'm **Farjad**, a passionate full-stack web developer from **Air University, Islamabad** — crafting clean, responsive, and intelligent web apps that *feel* as good as they look.
 
-- 🌱 Creating web apps Using **MERN**
-- ⚡ Passionate about **React.js, Node.js, and AI APIs**
-- 🔭 Working on **enhancing AI-driven user experiences**
-- 📫 Contact me at **farjadkhalil7@gmail.com**
+> _“Turning ideas into sleek, interactive experiences — one line of code at a time.”_
 
 ---
 
-### 🔥 Tech Stack
-🚀 **Frontend:**  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+### ⚡️ Tech Arsenal
 
-💻 **Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql)
+#### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=flat&logo=framer)
 
-🤖 **AI & APIs:**  
-![Gemini API](https://img.shields.io/badge/-GeminiAPI-ff9800?style=flat&logo=google)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+#### 🧠 Backend & DB  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+
+#### 🤖 AI & Tools  
+![Gemini API](https://img.shields.io/badge/Gemini_API-FF9800?style=flat&logo=google)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+
 
 ---
 
-### 📌 Featured Projects
-🔹 **AI Chat Bot**  
-🛠️ *React | Tailwind CSS | Gemini API*  
-- Developed an AI chatbot using **Google's Gemini API** for smart responses.
-- Designed a fully responsive UI with **Tailwind CSS**.
-- Integrated **React Hooks** for dynamic interactions.
+### 🚀 Featured Projects
 
-🔹 **WeatherApp**  
-🛠️ *Node.js | Weather API | Bootstrap*  
-- Created a weather application fetching **real-time data** from Weather API.
-- Built an intuitive UI using **Bootstrap** and **JavaScript**.
-- Implemented **location-based search** functionality.
+#### 🛒 [E-Commerce Site](https://github.com/farjad-khalil/E-Commerce-Site)
+**Tech:** *React, Next.js, Tailwind CSS, Node.js, Express, MongoDB*  
+🛍️ Built a full-featured e-commerce app with:
+- Dynamic product listings & filtering
+- Secure user auth system
+- Cart, checkout, and order management
+- Responsive design for mobile & desktop
 
-🔹 **E-Book App**  
-🛠️ *Flutter | Audio Player*  
-- Developed an **audiobook application** with Flutter.
-- Integrated **audio player features** for seamless user experience.
-- Ensured **cross-platform compatibility**.
+---
 
-🔹 **BlogSphere**  
-🛠️ *HTML | CSS | Node.js | MongoDB*  
-- Built a **dynamic blogging platform**.
-- Implemented **user authentication** and content management.
+#### 📊 [ProTracker](https://github.com/farjad-khalil/ProTracker)
+**Tech:** *React, Redux, Tailwind CSS, Node.js, Express, MongoDB*  
+📅 A powerful project & task management app:
+- Team dashboards and user-based roles
+- Progress tracking with status updates
+- Clean UI with intuitive workflows
+- RESTful API for robust backend operations
+
+---
+
+#### 🤖 AI Chatbot
+**Tech:** *React, Tailwind CSS, Gemini API*  
+💬 Built a smart chatbot powered by **Google Gemini API**:
+- Engages in human-like conversation
+- Handles input intelligently
+- Fully responsive interface
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farjad-khalil&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farjad-khalil&theme=radical" width="48%" />
 </p>
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farjad-khalil&theme=tokyonight&margin-w=15" />
+</p>
+
+
+
+
+
+
 ---
 
-### 🌍 Connect with Me
-🔗 **GitHub:** [@farjad-khalil](https://github.com/farjad-khalil)  
-📧 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)   
+### 🌐 Let’s Connect
+
+- 📬 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)
+- 💼 **GitHub:** [@farjad-khalil](https://github.com/farjad-khalil)
 
 ---
 
-🚀 **Let's build something amazing together!**  
+### 🛠️ Currently Working On:
+- Expanding my **Next.js** projects
+- Enhancing frontend animations with **Framer Motion**
+- Exploring more **AI integrations**
+
+---
+
+> ✨ *"Code smart. Design beautiful. Deliver value."*  
+> — Farjad
