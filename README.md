@@ -4,7 +4,7 @@
 
 Hey there! I'm **Farjad**, a passionate full-stack web developer from **Air University, Islamabad** — crafting clean, responsive, and intelligent web apps that *feel* as good as they look.
 
-> _“Turning ideas into sleek, interactive experiences — one line of code at a time.”_
+> _“Turning ideas into sleek, interactive experiences — one line of code at a time”_
 
 ---
 
