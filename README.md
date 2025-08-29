@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammad Farjad Khalil
 
-## 💡 MERN Stack Dev | Next.js Enthusiast | UI/UX Lover | AI Curious
+## 💡 MERN Stack Dev | Next.js | IoT
 
 Hey there! I'm **Farjad**, a passionate full-stack web developer from **Air University, Islamabad** — crafting clean, responsive, and intelligent web apps that *feel* as good as they look.
 
