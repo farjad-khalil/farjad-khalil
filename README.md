@@ -6,7 +6,7 @@ Hey there! I'm **Farjad**, a passionate full-stack web developer from **Air Univ
 
 > _“Turning ideas into sleek, interactive experiences — one line of code at a time”_
 
----
+----
 
 ### ⚡️ Tech Arsenal
 
