@@ -1,101 +1,134 @@
-# 👨‍💻 Muhammad Farjad Khalil
+# Muhammad Farjad Khalil
 
-## 💡 MERN Stack Dev | Next.js | IoT |  Android Dev
+### Software Engineer · Full-Stack Developer
 
-Hey there! I'm **Farjad**, a passionate full-stack web developer from **Air University, Islamabad** — crafting clean, responsive, and intelligent web apps that *feel* as good as they look.
+I'm **Muhammad Farjad Khalil**, a Software Engineer and Full-Stack Developer focused on building scalable, modern, and user-friendly software.
 
-> _“Turning ideas into sleek, interactive experiences — one line of code at a time”_
+I recently graduated with a **Bachelor's in Computer Science** and currently work on full-stack applications, business platforms, dashboards, client management systems, and software solutions.
 
-----
-
-### ⚡️ Tech Arsenal
-
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=flat&logo=framer)
-
-#### 🧠 Backend & DB  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
-
-#### 🤖 AI & Tools  
-![Gemini API](https://img.shields.io/badge/Gemini_API-FF9800?style=flat&logo=google)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-
+My primary focus is building products from idea to production — combining clean frontend experiences with reliable backend architecture.
 
 ---
 
-### 🚀 Featured Projects
+## 👨‍💻 What I Work With
 
-#### 🛒 [E-Commerce Site](https://github.com/farjad-khalil/E-Commerce-Site)
-**Tech:** *React, Next.js, Tailwind CSS, Node.js, Express, MongoDB*  
-🛍️ Built a full-featured e-commerce app with:
-- Dynamic product listings & filtering
-- Secure user auth system
-- Cart, checkout, and order management
-- Responsive design for mobile & desktop
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Databases & Backend Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-#### 📊 [ProTracker](https://github.com/farjad-khalil/ProTracker)
-**Tech:** *React, Redux, Tailwind CSS, Node.js, Express, MongoDB*  
-📅 A powerful project & task management app:
-- Team dashboards and user-based roles
-- Progress tracking with status updates
-- Clean UI with intuitive workflows
-- RESTful API for robust backend operations
+## 🚀 What I'm Focused On
+
+- Building scalable full-stack applications
+- Designing clean and intuitive user interfaces
+- Developing REST APIs and backend systems
+- Working with PostgreSQL and modern database architecture
+- Building business platforms and management systems
+- Integrating AI and automation into software products
+- Improving application architecture, performance, and maintainability
 
 ---
 
-#### 🤖 AI Chatbot
-**Tech:** *React, Tailwind CSS, Gemini API*  
-💬 Built a smart chatbot powered by **Google Gemini API**:
-- Engages in human-like conversation
-- Handles input intelligently
-- Fully responsive interface
+## 💼 Experience
+
+### Software Engineer / Full-Stack Developer
+
+Currently working on modern software platforms and business applications involving:
+
+- Client and user management systems
+- Dashboards and administrative platforms
+- Payment and inventory workflows
+- Authentication and role-based access systems
+- API development and third-party integrations
+- Full-stack application development with modern JavaScript and TypeScript technologies
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Selected Projects
+
+### 🛒 [E-Commerce Site](https://github.com/farjad-khalil/E-Commerce-Site)
+
+**Tech:** Next.js · React · Node.js · Express · MongoDB · Tailwind CSS
+
+A full-stack e-commerce platform featuring:
+
+- Product management and dynamic listings
+- Authentication and user accounts
+- Cart and checkout workflows
+- Order management
+- Responsive UI for desktop and mobile
+
+---
+
+### 📊 [ProTracker](https://github.com/farjad-khalil/ProTracker)
+
+**Tech:** React · Redux · Node.js · Express · MongoDB · Tailwind CSS
+
+A project and task management application focused on organized workflows and team collaboration.
+
+- Role-based user functionality
+- Project and task tracking
+- Progress and status management
+- Dashboard-based workflows
+- REST API backend
+
+---
+
+### 🤖 AI Chatbot
+
+**Tech:** React · Tailwind CSS · AI APIs
+
+An AI-powered conversational application with:
+
+- Responsive chat interface
+- AI API integration
+- Dynamic conversation handling
+- Modern frontend experience
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farjad-khalil&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=farjad-khalil&theme=radical&cachebuster=1" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=farjad-khalil&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
+---
 
-### 🏆 GitHub Achievements
+## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farjad-khalil&theme=tokyonight&margin-w=15" />
-</p>
+📧 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)
 
+💻 **GitHub:** [@farjad-khalil](https://github.com/farjad-khalil)
 
-
-
-
+🌐 **Portfolio:** [farjad.vercel.app](https://farjad.vercel.app/)
 
 ---
 
-### 🌐 Let’s Connect
-
-- 📬 **Email:** [farjadkhalil7@gmail.com](mailto:farjadkhalil7@gmail.com)
-- 💼 **GitHub:** [@farjad-khalil](https://github.com/farjad-khalil)
-
----
-
-### 🛠️ Currently Working On:
-- Expanding my **Next.js** projects
-- Enhancing frontend animations with **Framer Motion**
-- Exploring more **AI integrations**
-
----
-
-> ✨ *"Code smart. Design beautiful. Deliver value."*  
-> — Farjad
+> Building software that solves real problems — with a focus on clean architecture, thoughtful design, and practical results.
