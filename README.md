@@ -1,4 +1,4 @@
-# Muhammad Farjad Khalil
+# MUHAMMAD FARJAD KHALIL
 
 ### Software Engineer · Full-Stack Developer
 
